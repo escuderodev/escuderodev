@@ -11,10 +11,10 @@
   ##
   
 <div style="display: inline_block"><br>  
+  <img align="center" alt="Escudero-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Escudero-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="Escudero-HTML5" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Escudero-CSS3" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Escudero-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
 </div>
   
   ##
